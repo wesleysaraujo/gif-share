@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398336770994",
+    "firebase_url": "https://gifs-lovers.firebaseio.com",
+    "project_id": "gifs-lovers",
+    "storage_bucket": "gifs-lovers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398336770994:android:93056410320d4050",
+        "android_client_info": {
+          "package_name": "br.com.agits.giflovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398336770994-p0eesc1bckej1g00bb8h873bb69c98r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBeJi4SsYx0luNsqT07Ff_L4E43mfiZ84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
